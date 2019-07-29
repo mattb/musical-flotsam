@@ -1,3 +1,5 @@
+# drum maps from https://github.com/pichenettes/eurorack/blob/master/grids/resources.cc
+
 node0 = [
      255,      0,      0,      0,      0,      0,    145,      0,
        0,      0,      0,      0,    218,      0,      0,      0,
